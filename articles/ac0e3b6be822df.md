@@ -3,7 +3,7 @@ title: "AWS SAA-C03 受験体験記"
 emoji: "📚"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["aws", "aws認定試験", "saa"]
-published: false
+published: true
 publication_name: "x_point_1"
 ---
 
